@@ -1,11 +1,15 @@
 ---
-title: "allydiane.github.io"
+title: "Ally's Website"
+image: headshot_IMG_7729.jpg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ally-lewis-538927292/
+    - text: Email
+      href: //adlewis1@colostate.edu
+    - text: Research Information
+    - text: Warner College of Natural Resources
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

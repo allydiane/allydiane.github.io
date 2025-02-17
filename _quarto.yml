@@ -2,12 +2,14 @@ project:
   type: website
 output-dir: docs
 website:
-  title: "allydiane.github.io"
+  title: "Ally's Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
+      - Projects.qmd
 
 format:
   html:
