@@ -3,7 +3,7 @@ title: "Ally's Website"
 image: headshot_IMG_7729.jpg
 about:
   template: jolla
-  image-shape: rectangle
+  image-shape: round
   image-width: 20em
   links: 
     - text: LinkedIn

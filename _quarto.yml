@@ -1,6 +1,6 @@
 project:
   type: website
-output-dir: docs
+  output-dir: docs
 website:
   title: "Ally's Website"
   navbar:
@@ -11,8 +11,8 @@ website:
       - Resume.qmd
       - Projects.qmd
 
-format:
-  html:
+format: 
+  html: 
     theme: cosmo
     css: styles.css
     toc: true
