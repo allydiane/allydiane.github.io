@@ -12,8 +12,4 @@ about:
       href: mailto:adlewis1@colostate.edu
     - text: GitHub
       href: https://github.com/allydiane
-output:
-  html_document:
-    includes:
-      in_header: favicon.html
 ---
