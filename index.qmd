@@ -10,6 +10,8 @@ about:
       href: https://www.linkedin.com/in/ally-lewis-538927292/
     - text: Email
       href: mailto:adlewis1@colostate.edu
+    - text: GitHub
+      href: https://github.com/allydiane
 output:
   html_document:
     includes:
