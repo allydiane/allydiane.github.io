@@ -2,8 +2,7 @@
 title: "Resume"
 ---
 
-**Education
-Colorado State University** – Undergraduate
+**Education Colorado State University** – Undergraduate
 
 Bachelors in Ecosystem Science and Sustainability
 
@@ -13,20 +12,15 @@ Cumulative GPA: 3.4
 
 **Relevant Coursework**
 
-**Python for STEM** • Covered fundamental programming concepts like variables, data types, functions, and
-control structures such as if-else statements
+**Python for STEM** • Covered fundamental programming concepts like variables, data types, functions, and control structures such as if-else statements
 
-**Ecology** • Gave core knowledge of relationships between organisms and their habitat, biodiversity,
-ecosystems, population dynamics, and current environmental impacts
+**Ecology** • Gave core knowledge of relationships between organisms and their habitat, biodiversity, ecosystems, population dynamics, and current environmental impacts
 
-**Remote Sensing and Image Interpretation** • Practiced satellite imagery collection, land use classification, and measured reflections
-of radiation using ENVI software
+**Remote Sensing and Image Interpretation** • Practiced satellite imagery collection, land use classification, and measured reflections of radiation using ENVI software
 
-**Mapping, Cartography, and Spatial Thinking** • Additional practice with ArcGIS by collecting data off reputable websites, manipulation
-of layers, and integration of long-term project structure
+**Mapping, Cartography, and Spatial Thinking** • Additional practice with ArcGIS by collecting data off reputable websites, manipulation of layers, and integration of long-term project structure
 
-**Introduction to Geospatial Science** • Learned basic functions of ArcGIS like cosmetic adjustments to shapefiles,
-ModelBuilder, uploading data, and practice with geodatabases
+**Introduction to Geospatial Science** • Learned basic functions of ArcGIS like cosmetic adjustments to shapefiles, ModelBuilder, uploading data, and practice with geodatabases
 
 **Work Experience**
 

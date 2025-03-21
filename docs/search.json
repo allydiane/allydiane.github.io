@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a fourth-year student at Colorado State University, studying environmental sciences. I am interested in building a career in conservation and restoration using geospatial sciences, and am looking for any opportunity that will allow the development of useful skills in the environmental field. My core competencies include proficiency in ArcGIS and related software, Microsoft products, and introductory knowledge of Python coding. I am dependable, detail-oriented, and have experience in leadership."
+    "text": "I am a fourth-year student at Colorado State University, studying environmental sciences. I am interested in building a career in conservation and restoration using geospatial sciences, and am looking for any opportunity that will allow the development of useful skills in the environmental field. My core competencies include proficiency in ArcGIS and related software, Microsoft products, and introductory knowledge of Python and R coding. I am dependable, detail-oriented, and have experience in leadership."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,12 @@
     "title": "Resume",
     "section": "",
     "text": "Education Colorado State University – Undergraduate\nBachelors in Ecosystem Science and Sustainability\nMinor in Geospatial Sciences for Natural Resources\nCumulative GPA: 3.4\nRelevant Coursework\nPython for STEM • Covered fundamental programming concepts like variables, data types, functions, and control structures such as if-else statements\nEcology • Gave core knowledge of relationships between organisms and their habitat, biodiversity, ecosystems, population dynamics, and current environmental impacts\nRemote Sensing and Image Interpretation • Practiced satellite imagery collection, land use classification, and measured reflections of radiation using ENVI software\nMapping, Cartography, and Spatial Thinking • Additional practice with ArcGIS by collecting data off reputable websites, manipulation of layers, and integration of long-term project structure\nIntroduction to Geospatial Science • Learned basic functions of ArcGIS like cosmetic adjustments to shapefiles, ModelBuilder, uploading data, and practice with geodatabases\nWork Experience\nParched (Panama Rainforest Changes with Experimental Drying) – Lab Assistant\n\nSept 2024 – Present\n\nMeasure bulk density and root biomass from soil samples\nRecord and analyze data for future comparisons in scientific studies\n\nOld Navy – Product Operations Lead\n\nMar 2022 – Present\n\nOrganized and managed product displays on the sales floor to maintain visual appeal and stock levels\nDelegated daily tasks to associates and supported store operations\n\nAdvanced Urgent Care – COVID Swabber / Front Desk Receptionist\n\nSept 2021 – Mar 2022\n\nConducted COVID-19 tests and recorded results into patient medical records\nScheduled appointments and assisted with front desk operations"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is the link to the description of this project:\n\nLab 1\n\nAdditionally, here is a link to the created website:\n\nWebsite\n\n\nThrough the duration of this project, I learned general knowledge of Github repositories, Quarto documents, and how to use these sources to create a personal website. In additon, I gained confidence with .html, .yml, and .css files."
   }
 ]
