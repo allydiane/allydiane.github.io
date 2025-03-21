@@ -1,3 +1,55 @@
 ---
 title: "Resume"
 ---
+
+**Education
+Colorado State University** – Undergraduate
+
+Bachelors in Ecosystem Science and Sustainability
+
+Minor in Geospatial Sciences for Natural Resources
+
+Cumulative GPA: 3.4
+
+**Relevant Coursework**
+
+**Python for STEM** • Covered fundamental programming concepts like variables, data types, functions, and
+control structures such as if-else statements
+
+**Ecology** • Gave core knowledge of relationships between organisms and their habitat, biodiversity,
+ecosystems, population dynamics, and current environmental impacts
+
+**Remote Sensing and Image Interpretation** • Practiced satellite imagery collection, land use classification, and measured reflections
+of radiation using ENVI software
+
+**Mapping, Cartography, and Spatial Thinking** • Additional practice with ArcGIS by collecting data off reputable websites, manipulation
+of layers, and integration of long-term project structure
+
+**Introduction to Geospatial Science** • Learned basic functions of ArcGIS like cosmetic adjustments to shapefiles,
+ModelBuilder, uploading data, and practice with geodatabases
+
+**Work Experience**
+
+**Parched (Panama Rainforest Changes with Experimental Drying) – Lab Assistant**\
+
+*Sept 2024 – Present*
+
+-   Measure bulk density and root biomass from soil samples
+
+-   Record and analyze data for future comparisons in scientific studies
+
+**Old Navy – Product Operations Lead**\
+
+*Mar 2022 – Present*
+
+-   Organized and managed product displays on the sales floor to maintain visual appeal and stock levels
+
+-   Delegated daily tasks to associates and supported store operations
+
+**Advanced Urgent Care – COVID Swabber / Front Desk Receptionist**\
+
+*Sept 2021 – Mar 2022*
+
+-   Conducted COVID-19 tests and recorded results into patient medical records
+
+-   Scheduled appointments and assisted with front desk operations

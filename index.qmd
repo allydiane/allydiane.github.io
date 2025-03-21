@@ -4,7 +4,7 @@ image: headshot_IMG_7729.jpg
 about:
   template: jolla
   image-shape: round
-  image-width: 20em
+  image-width: 25em
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/ally-lewis-538927292/
@@ -13,3 +13,5 @@ about:
     - text: Research Information
     - text: Warner College of Natural Resources
 ---
+
+I am a fourth-year student at Colorado State University, studying environmental sciences. I am interested in building a career in conservation and restoration using geospatial sciences, and am looking for any opportunity that will allow the development of useful skills in the environmental field. My core competencies include proficiency in ArcGIS and related software, Microsoft products, and introductory knowledge of Python and R coding. I am dependable, detail-oriented, and have experience in leadership.

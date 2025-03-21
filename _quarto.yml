@@ -2,12 +2,11 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Ally's Website"
+  title: "Ally Lewis"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - Resume.qmd
       - Projects.qmd
 
