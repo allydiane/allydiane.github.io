@@ -8,8 +8,6 @@ Here is the link to the description of this project:
 
 Additionally, here is a link to the created website:
 
--   
+-   [Website](https://allydiane.github.io)
 
-    ## [Website](https://allydiane.github.io)
-
-Through the duration of this project, I learned general knowledge of Github repositories, Quarto documents, and how to use these sources to create a personal website. In additon, I gained confidence with .html, .yml, and .css files.
+Through the duration of this project, I learned general knowledge of Github repositories, Quarto documents, and how to use these sources to create a personal website. In addition, I gained confidence with .html, .yml, and .css files.
